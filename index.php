@@ -7,6 +7,7 @@
         <title>LOGO</title>
         <link rel="stylesheet" href="style.css">
     </head>
+    <html>
     <body>
            
                
